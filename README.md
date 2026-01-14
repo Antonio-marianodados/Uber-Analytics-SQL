@@ -11,11 +11,11 @@ Este projeto analisa os dados de 20 corridas realizadas como motorista de aplica
 
     Comparativo de Eficiência: O dia 07/01 foi mais rentável (R$ 2,57/km) do que o dia 11/01 (R$ 2,18/km), apesar de o dia 11 ter tido um volume maior de corridas.
 
-🛠️ Tecnologias Utilizadas:
+⚒️ Tecnologias Utilizadas:
 
-    MySQL Workbench para estruturação e consulta dos dados.
-
-    Excel para coleta inicial dos dados brutos.
+- **MySQL Workbench** para estruturação, limpeza e consulta dos dados.
+- **Excel** para a coleta e organização inicial dos dados brutos.
+- **Looker Studio** para a criação do dashboard interativo e visualização de dados.
 
 ## 📊 Dashboard Interativo
 Você pode interagir com os dados e filtros deste projeto através do link abaixo:
