@@ -13,8 +13,8 @@ Este projeto analisa os dados de 20 corridas realizadas como motorista de aplica
 
 ⚒️ Tecnologias Utilizadas:
 
-- **MySQL Workbench** para estruturação, limpeza e consulta dos dados.
 - **Excel** para a coleta e organização inicial dos dados brutos.
+- **MySQL Workbench** para estruturação, limpeza e consulta dos dados.
 - **Looker Studio** para a criação do dashboard interativo e visualização de dados.
 
 ## 📊 Dashboard Interativo
