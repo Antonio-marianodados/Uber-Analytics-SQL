@@ -1,6 +1,6 @@
 🚗 Uber Analytics - Análise de Eficiência com SQL
 
-![Dashboard Uber](https://github.com/Antonio-marianodados/Uber-Analytics-SQL/blob/main/Print.png?raw=true)
+![Dashboard Uber](https://github.com/Antonio-marianodados/Uber-Analytics-SQL/blob/main/NOME_DA_SUA_IMAGEM.png?raw=true)
 
 Este projeto analisa os dados de 20 corridas realizadas como motorista de aplicativo para identificar padrões de lucro e eficiência.
 📊 Principais Insights:
