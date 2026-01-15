@@ -2,14 +2,15 @@
 
 ![Dashboard Uber](dashboard-final.png.jpeg?raw=true)
 
-Este projeto analisa os dados de 20 corridas realizadas como motorista de aplicativo para identificar padrões de lucro e eficiência.
+Este projeto analisa os dados de 34 corridas realizadas como motorista de aplicativo para identificar padrões de lucro e eficiência.
+
 📊 Principais Insights:
 
-    Faturamento Total: R$ 262,72
+    Faturamento Total: R$ 387,14
 
-    Lucro Médio por KM: R$ 2,29
+    Lucro Médio por KM: R$ 2,31
 
-    Comparativo de Eficiência: O dia 07/01 foi mais rentável (R$ 2,57/km) do que o dia 11/01 (R$ 2,18/km), apesar de o dia 11 ter tido um volume maior de corridas.
+    Comparativo de Eficiência: O dia 07/01 permanece como o mais rentável (R$ 2,57/km). O novo dia analisado (15/01) apresentou uma eficiência sólida de R$ 2,34/km, superando o dia 11/01 (R$ 2,18/km), mesmo com um volume moderado de quilometragem.
 
 ⚒️ Tecnologias Utilizadas:
 
