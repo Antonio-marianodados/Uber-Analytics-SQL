@@ -2,35 +2,26 @@
 
 ![Dashboard Uber](Port-final.jpeg?raw=true)
 
-📊 Análise de Eficiência Logística: Uber Data Lab
+# 📊 Uber Analytics: Gestão Logística e BI
 
-Este projeto transforma a minha rotina como motorista de aplicativo em um laboratório prático de Business Intelligence. Utilizo dados reais de 47 corridas para identificar padrões de rentabilidade e otimização de tempo, aplicando conceitos de ETL (Extração, Transformação e Carga) e visualização de dados.
+Este projeto transforma dados brutos da minha rotina como motorista de aplicativo em um ecossistema de Business Intelligence. O objetivo é aplicar técnicas de tratamento de dados (SQL) e visualização (Looker Studio) para otimizar a rentabilidade e monitorar a eficiência operacional.
 
-    Nota de Carreira: Este projeto é uma demonstração prática da minha transição para a área de Análise e Tratamento de Dados. Embora utilize a Uber como fonte de dados, o objetivo central é aplicar rigor técnico (SQL, Excel, Looker Studio) para resolver problemas de eficiência que podem ser escalados para qualquer setor de negócios.
+## 🚀 Status do Projeto
+O banco de dados foi expandido para **57 registros**, cobrindo 5 dias de operação intensa em Janeiro de 2026.
 
-📈 Principais Indicadores (KPIs)
+## 📈 KPIs Consolidados
+* **Faturamento Total:** R$ 598,31
+* **Eficiência Média (Lucro/KM):** R$ 2,41
+* **Ticket Médio por Corrida:** R$ 9,34
+* **Volume de Dados:** 57 corridas tratadas via SQL
 
-    Faturamento Total Analisado: R$ 508,47
+## 🛠️ Stack Tecnológica
+* **Excl:** Coleta e tratamento inicial dos dados brutos.
+* **MySQL Workbench:** Criação de queries para limpeza e estruturação dos dados.
+* **Google Looker Studio:** Dashboard interativo com análise de tendência temporal e distribuição de volume.
 
-    Eficiência Média Global: R$ 2,28 por KM rodado
-
-    Recorde de Rentabilidade: R$ 2,57/km (Dia 07/01)
-
-    Volume de Dados: 47 registros estruturados
-
-🔍 Insights de Performance
-
-    Análise de Tendência: Através do gráfico de linhas, identifiquei que a eficiência teve um pico inicial (07/01) e seguiu para uma estabilização consistente em torno de R$ 2,39/km nos dias mais recentes (15/01 e 19/01).
-
-    Otimização: O dia 11/01, apesar de ter um volume sólido de corridas, apresentou a menor eficiência (R$ 2,18/km), disparando um alerta para a necessidade de rever a estratégia de horários ou regiões naquele período.
-
-🛠️ Stack Tecnológica
-
-    Excel: Coleta e tratamento inicial dos dados brutos.
-
-    MySQL: Estruturação do banco de dados e consultas para métricas avançadas (Lucro/KM, Ticket Médio).
-
-    Looker Studio: Desenvolvimento de Dashboard Interativo com análise de tendência temporal.
+## 🔍 Insights Extraídos
+Através da análise de tendência, identifiquei uma recuperação na eficiência financeira no dia 23/01 (R$ 2,47/km) após uma queda no dia 11/01 (R$ 2,18/km). Isso demonstra a importância de monitorar indicadores em tempo real para ajustar estratégias operacionais.
 
 ## 📊 Dashboard Interativo
 Você pode interagir com os dados e filtros deste projeto através do link abaixo:
