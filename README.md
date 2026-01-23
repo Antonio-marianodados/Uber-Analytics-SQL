@@ -1,6 +1,6 @@
 🚗 Uber Analytics - Análise de Eficiência com SQL
 
-![Dashboard Uber](dashboard-final.jpeg?raw=true)
+![Dashboard Uber](Port-final.jpeg?raw=true)
 
 📊 Análise de Eficiência Logística: Uber Data Lab
 
