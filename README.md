@@ -16,7 +16,7 @@ O banco de dados foi expandido para **57 registros**, cobrindo 5 dias de operaç
 * **Volume de Dados:** 57 corridas tratadas via SQL
 
 ## 🛠️ Stack Tecnológica
-* **Excl:** Coleta e tratamento inicial dos dados brutos.
+* **Excel:** Coleta e tratamento inicial dos dados brutos.
 * **MySQL Workbench:** Criação de queries para limpeza e estruturação dos dados.
 * **Google Looker Studio:** Dashboard interativo com análise de tendência temporal e distribuição de volume.
 
